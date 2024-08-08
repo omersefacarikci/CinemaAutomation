@@ -1,11 +1,11 @@
-Merhabalar Ben Ömer Sefa
-Bu projemde sinema otomasyonu yaptım.
-Film kayıt, oyuncu kayıt, yönetmen kayıt, salon kayıt gibi sinema otomasyonunda olması gereken özellikleri ekledim.
-Projemde Microsoft SQL Server veritabanını kullandım. Araç için de C# araçlarını kullandım.
-Projemin .exe uzantılı kurulum dosyasını proje klasörüne ekledim.
-Bu projenin bilgisayarınızda çalışabilmesi için yine proje klasörüne eklediğim proje veritabanını kendi veritabanı sunucunuza bağlamalısınız.
-Giriş sayfasında Kullanıcı adı ve parola alanı ekleyerek güvenli olmasını sağladım.
-Kullanıcı adı: admin
-Parola: 123
-Bu kullanıcı adı ve parolayı kullanarak programı kullanabilirsiniz.
-Teşekkür ederim...
+Hello, I am Ömer Sefa
+I did cinema automation in this project.
+I added the features that cinema automation should have such as film recording, actor recording, director recording, hall recording.
+I used Microsoft SQL Server database in my project. I used C# tools for the tool.
+I added the .exe extension installation file of my project to the project folder.
+In order for this project to work on your computer, you must connect the project database that I added to the project folder to your own database server.
+I added a Username and Password field to the login page to make it secure.
+Username: admin
+Password: 123
+You can use the program using this username and password.
+Thank you...
