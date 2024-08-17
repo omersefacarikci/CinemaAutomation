@@ -6,4 +6,5 @@ Additionally, extra information about directors and actors enriches the viewing 
 The system operates on an MSSQL database, which is integrated within the project directory, making database setup and management straightforward for users. To ensure the software functions smoothly with all its features, the latest version of the .NET Framework must be installed on your computer. This requirement is crucial for the software to operate at full capacity without interruptions.
 
 With these features, cinema operators can optimize every aspect from ticket sales to customer service, thereby enhancing operational efficiency and maximizing customer satisfaction.
+
 Project: Ömer Sefa Çarıkçı
